@@ -1,8 +1,7 @@
 # Rates
 
 - Development
-- Consulting
+- Architecture
 - Code review
-- Talks
-- Educational programs
-- etc.
+- Mentoring
+- Consulting
