@@ -1,4 +1,3 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- Siberian State University of Science and Technology named after Academician M.F. Reshetnev
