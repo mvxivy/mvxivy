@@ -1,4 +1,4 @@
-<code>👷 Speciality: Software engineer / Senior frontend engineer & architect</code><br>
+<code>👷 Speciality: Software engineer / Senior frontend engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🏆 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
