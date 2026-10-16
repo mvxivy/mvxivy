@@ -7,4 +7,4 @@
 
 <code>📦 Tech stack: Claude code with Engineering skills 😎 </code>
 <!-- <code>🪙 [Rates](RATES.md)</code><br> -->
-<code>💬 telegram: [@max_ivy](https://telegram.me/max_ivy)</code>
+<code>💬 telegram: [@max_ivy](https://t.me/mvxivy)</code>
